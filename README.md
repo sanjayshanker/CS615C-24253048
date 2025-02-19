@@ -51,5 +51,3 @@ git pull origin main
 If working on a branch:
 git pull origin feature-branch
 
-Step 12: Check the Commit History
-git log --oneline --graph --decorate --all
